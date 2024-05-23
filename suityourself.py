@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import random
-import replicate
 import os
 
 def get_card_state():
